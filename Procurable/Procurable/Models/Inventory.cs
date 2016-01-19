@@ -5,8 +5,8 @@ using System.Web;
 
 namespace Procurable.Models
 {
-    `
     public class Inventory
     {
+        `
     }
 }
